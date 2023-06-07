@@ -33,7 +33,7 @@ GOTO BEGIN
 ```
 
 ### "Get Ready to Scare the Pants Off Your Friends! A PC Virus Prank Tutorial" Fake virus ( @Frex-IQ )
-<a href="https://youtu.be/XGY8h6rXNSI"><img src="https://i.ibb.co/RgDLx9n/pngtree-watch-now-button-website-media-png-image-4711007-removebg-preview.png" alt="Watch the video" width="350" height="200"></a>
+<a href="https://youtu.be/XGY8h6rXNSI"><img src="https://i.ibb.co/vPSFp25/pngtree-watch-now-button-website-media-png-image-4711007-removebg-preview.png" alt="Watch the video" width="350" height="100"></a>
 
 
 
