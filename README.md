@@ -32,8 +32,10 @@ GOTO BEGIN
 
 ```
 
-<!-- Replace "EMBED_CODE" with the actual embed code you copied from YouTube -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XGY8h6rXNSI?start=29" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### "Get Ready to Scare the Pants Off Your Friends! A PC Virus Prank Tutorial" Fake virus ( @Frex-IQ )
+<a href="https://youtu.be/XGY8h6rXNSI"><img src="https://i.ibb.co/RgDLx9n/pngtree-watch-now-button-website-media-png-image-4711007-removebg-preview.png" alt="Watch the video" width="350" height="200"></a>
+
+
 
 
 
